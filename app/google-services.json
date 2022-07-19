@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107330979176",
+    "project_id": "yapi-market-catalog",
+    "storage_bucket": "yapi-market-catalog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107330979176:android:36c03bd433daa0374302dd",
+        "android_client_info": {
+          "package_name": "com.muazkartal.yapicatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107330979176-73v66svrl8l6736nrf0jinvo7b2h61jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOr1vm-1i9F0IbbnPEaKekSyhx66Xby-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107330979176-73v66svrl8l6736nrf0jinvo7b2h61jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
